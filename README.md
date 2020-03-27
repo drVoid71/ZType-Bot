@@ -22,7 +22,7 @@ The bot will automatically **STOP** as soon as it's game over.  If you __need__ 
 
 # End Result: Wave 105 with Accuracy of 100%
 
-![alt text](https://github.com/konoha71/Basic-Ray-Tracing/blob/master/Screenshot_raytracing_4K.png)
+![alt text](https://github.com/konoha71/ZType-Bot/blob/master/ztype-wave105.png)
 
 Wave 105 is not necessarily the limit but with sufficient computational power it can get you to Waves 100+.  The highest Wave I've seen it play is Wave 108; by that point it's just impossible to see what's going on other than moving progressing through Waves and the __Game Over__ screen.
 
