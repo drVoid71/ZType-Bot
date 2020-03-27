@@ -24,7 +24,7 @@ The bot will automatically **STOP** as soon as it's game over.  If you __need__ 
 
 ![alt text](https://github.com/konoha71/ZType-Bot/blob/master/ztype-wave105.png)
 
-Wave 105 is not necessarily the limit but with sufficient computational power it can get you to Waves 100+.  The highest Wave I've seen it play is Wave 108; by that point it's just impossible to see what's going on other than moving progressing through Waves and the __Game Over__ screen.
+Wave 105 is not necessarily the limit but with sufficient computational power it can get you to Waves 100+.  The highest Wave I've seen it play is Wave 108; by that point it's just impossible to see what's going on other than progressing through Waves and the __Game Over__ screen.
 
 The specs of the computer in which the bot was able to reach the Wave in the screenshot are:
 * Quad-core CPU (3.6GHz; non-ARM CPU)
